@@ -11,7 +11,7 @@ const textFit = require('text-fit')
 const vdom = require('virtual-dom')
 const hyperx = require('hyperx')
 
-const hx = hyperx(vdom)
+const hx = hyperx(vdom.h)
 
 const text = 'The quick brown fox jumped over the lazy dog'
 
