@@ -1,6 +1,6 @@
 {
   "name": "text-fit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Apply text styles based on the shape of the text",
   "main": "index.js",
   "scripts": {
